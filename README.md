@@ -9,3 +9,15 @@ pip install chess
 pip install time
 pip install random
 
+- Run! : 
+```
+cd folder
+python playagainstai.py
+
+- Or:
+```
+cd folder
+python playagainstaiaswhite.py
+
+- The word "folder should be replaced with the folder address that you have downloaded (this repo unzipped)
+

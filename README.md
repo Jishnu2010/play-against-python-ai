@@ -3,7 +3,7 @@ The ai is very very easy. The `playagainstai.py` file lets you play as black and
 # How to run
 - You may need to install the modules
 - You obviously need Python :D
-- Install by:
+- Install modules by:
 ```
 pip install chess
 pip install time
